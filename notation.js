@@ -18,3 +18,4 @@ const subject = 'math';
 const subjectMarks = student.marks[subject];
 const marks2 = student.marks[subject];
 console.log(marks2);
+//Good
